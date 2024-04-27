@@ -1,0 +1,20 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    width: 400%;
+}
+
+.button >div{
+    font-size: 16px;
+    transition: 1s;
+}
+
+
+.left{
+background-image: radial-gradient(88.89% 122.63% at 99.47% 33.2%, #97CDD2 0%, #ABDADC 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+
+}
